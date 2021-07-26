@@ -1,0 +1,12 @@
+/Users/matt/code/EdabitPractice/EdabitPractice/bin/Debug/netcoreapp3.1/EdabitPractice.deps.json
+/Users/matt/code/EdabitPractice/EdabitPractice/bin/Debug/netcoreapp3.1/EdabitPractice.runtimeconfig.json
+/Users/matt/code/EdabitPractice/EdabitPractice/bin/Debug/netcoreapp3.1/EdabitPractice.runtimeconfig.dev.json
+/Users/matt/code/EdabitPractice/EdabitPractice/bin/Debug/netcoreapp3.1/EdabitPractice.dll
+/Users/matt/code/EdabitPractice/EdabitPractice/bin/Debug/netcoreapp3.1/EdabitPractice.pdb
+/Users/matt/code/EdabitPractice/EdabitPractice/obj/Debug/netcoreapp3.1/EdabitPractice.csproj.AssemblyReference.cache
+/Users/matt/code/EdabitPractice/EdabitPractice/obj/Debug/netcoreapp3.1/EdabitPractice.AssemblyInfoInputs.cache
+/Users/matt/code/EdabitPractice/EdabitPractice/obj/Debug/netcoreapp3.1/EdabitPractice.AssemblyInfo.cs
+/Users/matt/code/EdabitPractice/EdabitPractice/obj/Debug/netcoreapp3.1/EdabitPractice.csproj.CoreCompileInputs.cache
+/Users/matt/code/EdabitPractice/EdabitPractice/obj/Debug/netcoreapp3.1/EdabitPractice.dll
+/Users/matt/code/EdabitPractice/EdabitPractice/obj/Debug/netcoreapp3.1/EdabitPractice.pdb
+/Users/matt/code/EdabitPractice/EdabitPractice/obj/Debug/netcoreapp3.1/EdabitPractice.genruntimeconfig.cache
